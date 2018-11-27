@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-11-22T02:53:54Z" name="Default suite" finished-at="2018-11-22T02:54:05Z" duration-ms="11069">
+    <groups>
+    </groups>
+    <test started-at="2018-11-22T02:53:54Z" name="Default test" finished-at="2018-11-22T02:54:05Z" duration-ms="11069">
+      <class name="citigroup.nbs.FirstProgram">
+        <test-method signature="sample()[pri:0, instance:citigroup.nbs.FirstProgram@6ab778a]" started-at="2018-11-22T02:53:54Z" name="sample" finished-at="2018-11-22T02:54:05Z" duration-ms="11018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+      </class> <!-- citigroup.nbs.FirstProgram -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
